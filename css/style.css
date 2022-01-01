@@ -54,7 +54,7 @@ header {
     text-decoration: underline;
 }
 .main-image {
-    background-attachment: fixed;
+    
     background-size: cover;
     background-image: url("../img/main-image.jpg");
     /* height: 696px; */
