@@ -33,7 +33,6 @@ header {
 .t1{
     text-align: center;
     font-weight: lighter;
-    font-size: 72pt;
     line-height: 100%;
     color: #fff;
     font-size: 4vw;
@@ -273,3 +272,14 @@ footer {
 #search{
     height: 21px;
 }
+
+body, html {
+    height: 100%;
+    text-align: center;
+}
+
+body {
+  background-color: #242F3F;
+}
+
+
